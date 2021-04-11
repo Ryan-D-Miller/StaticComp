@@ -138,4 +138,13 @@ h4 {
     .grid {
         display: inline;
     }
+
+    nav {
+        display: inline;
+    }
+
+    .navInfo {
+        padding: 0;
+        padding-top: 8px;
+    }
 }
