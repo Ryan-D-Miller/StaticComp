@@ -25,7 +25,7 @@
 
 ## Preview
 <p align="left">ScreenShot</br>
- <img width="1000" height="500" src="./assets/Static_Comp_ScreenShots.png">
+ <img width="1000" height="500" src="./assets/Static_Comp_ScreenShot.png">
 </p>
 
 <p align="left">Original Comp</br>
